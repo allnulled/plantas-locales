@@ -1,0 +1,21 @@
+{
+  "name": "plantas-locales",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crear-libros.js",
+  "scripts": {
+    "scrap:scholar": "scrapero --port 9909 --storage ./referencias/scholar/",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "allnulled",
+  "license": "GPLv3",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "html-pdf": "^2.2.0",
+    "markdown-pdf": "^10.0.0",
+    "web2os": "^1.1.0",
+    "yargs": "^16.2.0"
+  }
+}
