@@ -1,5 +1,20 @@
 # Plantas locales
 
+-----
+
+Revisión más adelante.
+
+Parece que alguien me ha alterado este proyecto. Ya no hay ni PDFs, ni generadores, ni imágenes.
+
+Qué falso. Me han robado las ratikéits. En fin. Sin comentarios, mejor, ¿no? Si Dios existe, que os juzgue él. Si no, seguid siendo gusanoides. Todo cuadra dentro de la raíz. 1 Dios. N gusanoides esparcidos al servicio de los camellos-capo. Y demás. Todo cuadra. Cuadra incluso ser un experimento de las élites farmacéuticas intermedias. Y estar metido en una historia. O de las tecnológicas. En fin. 
+
+Jej. 66. 66 plantas quedan. Yo espero... bueno. Yo me voy a portar bien. ¿Sabes por qué? Porque seas quien seas, parece que te jode. Y si me muero de hambre, me muero. Pero me estás jodiendo. Y... no: sí, sí me estás jodiendo. Me estás jodiendo, y usas a todo. Así que puede que pare de esforzarme. Y me quede esperando. No lo descartes. Estoy harto que me emparanoies. Borrar hasta los PDFs. Y hacerlo pasar por primer commit.
+
+
+Vas de listo. 66. Vete a la mierda. Qué pringados. Qué pringados, no voy a entrar. Pero aquí queda. Ts.
+
+-----
+
 Bienvenid@ al proyecto <b>Plantas locales</b>.
 
 ## ¿Qué es esto?
@@ -45,3 +60,4 @@ No, en este país, España igual que Cataluña, la pedagogía no parece tener la
 Este libro también busca eso: mostrar a la gente la riqueza que nos rodea, y que dejen de verlo como enemigos, pues las plantas son tan fácilmente multiplicables, que prohibirlas solo apunta a un interés de empobrecimiento masivo, más que de enriquecimiento, digan lo que digan esos líderes políticos. Y lo mismo, exactamente, ocurre con la educación: somos plantas, y si no nos riegan con conocimiento, creceremos con carencias. Exactamente igual que las plantas.
 
 Por: <b>Carlos Jimeno Hernández</b> a 6 de enero de 2021 dC. (después de COVID).
+
